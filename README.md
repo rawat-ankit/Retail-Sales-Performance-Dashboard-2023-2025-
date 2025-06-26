@@ -16,7 +16,7 @@ This Excel dashboard analyzes 3 years of retail sales data to help decision-make
 - Data Cleaning & KPI calculations
 
 ## 📸 Dashboard Preview:
-https://github.com/rawat-ankit/excel-call-centre-dashboard/issues/2#issue-3177938131
+![image](https://github.com/user-attachments/assets/da10f121-d8ff-452a-b3e4-cfefd13aac4a)
 
 ## 📂 Dataset:
 A 10K-row dataset was cleaned, modeled, and visualized to derive key metrics.
