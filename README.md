@@ -24,4 +24,4 @@ A 10K-row dataset was cleaned, modeled, and visualized to derive key metrics.
 ---
 
 ### 📬 Contact:
-[Ankit Rawat]([(https://www.linkedin.com/in/ankitrawat-ds/)])  
+[Ankit Rawat]((https://www.linkedin.com/in/ankitrawat-ds/))  
